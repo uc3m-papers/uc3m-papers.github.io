@@ -1,0 +1,368 @@
+[
+    {
+        "id": "romo",
+        "firstname": "Juan",
+        "lastname": "Romo Urroz",
+        "thumbnailUrl": "/people/romo.jpg",
+        "roles": [
+            "Rector de la UC3M",
+            "Presidente de la CRUE"
+        ],
+        "relatedPeople": [],
+        "keywords": [
+            "romo",
+            "urroz"
+        ]
+    },
+    {
+        "id": "barricarte",
+        "firstname": "Jesús Javier",
+        "lastname": "Sánchez Barricarte",
+        "thumbnailUrl": "/people/barricarte.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "barricarte"
+        ]
+    },
+    {
+        "id": "aedo",
+        "firstname": "Ignacio",
+        "lastname": "Aedo Cuevas",
+        "thumbnailUrl": "/people/aedo.jpg",
+        "roles": [],
+        "relatedPeople": [
+            "paloma-diaz"
+        ],
+        "keywords": [
+            "aedo"
+        ]
+    },
+    {
+        "id": "paloma-diaz",
+        "firstname": "Paloma",
+        "lastname": "Díaz Pérez",
+        "thumbnailUrl": "/people/paloma-diaz.jpg",
+        "roles": [],
+        "relatedPeople": [
+            "aedo"
+        ],
+        "keywords": [
+            "paloma diaz",
+            "diaz perez"
+        ]
+    },
+    {
+        "id": "rosa-lillo",
+        "firstname": "Rosa Elvira",
+        "lastname": "Lillo Rodríguez",
+        "thumbnailUrl": "/people/rosa-lillo.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "rosa elvira",
+            "lillo"
+        ]
+    },
+    {
+        "id": "escribano",
+        "firstname": "Álvaro",
+        "lastname": "Escribano Sáez",
+        "thumbnailUrl": "/people/escribano.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "escribano"
+        ]
+    },
+    {
+        "id": "isabel-gutierrez",
+        "firstname": "María Isabel",
+        "lastname": "Gutiérrez Calderón",
+        "thumbnailUrl": "/people/isabel-gutierrez.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "isabel gutierrez",
+            "gutierrez calderon"
+        ]
+    },
+    {
+        "id": "vaquero",
+        "firstname": "Juan José",
+        "lastname": "Vaquero López",
+        "thumbnailUrl": "/people/vaquero.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "juan jose vaquero",
+            "juanjo vaquero",
+            "vaquero lopez"
+        ]
+    },
+    {
+        "id": "angel-arias",
+        "firstname": "Ángel",
+        "lastname": "Arias Hernández",
+        "thumbnailUrl": "/people/angel-arias.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "angel arias",
+            "arias hernandez"
+        ]
+    },
+    {
+        "id": "daniel-pena",
+        "firstname": "Daniel",
+        "lastname": "Peña Sánchez de Rivera",
+        "thumbnailUrl": "/people/daniel-pena.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "daniel pena",
+            "sanchez de rivera"
+        ]
+    },
+    {
+        "id": "garvia",
+        "firstname": "Roberto",
+        "lastname": "Garvía Soto",
+        "thumbnailUrl": "/people/garvia.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "garvia"
+        ]
+    },
+    {
+        "id": "valiente",
+        "firstname": "Celia",
+        "lastname": "Valiente Fernández",
+        "thumbnailUrl": "/people/valiente.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "celia valiente",
+            "valiente fernandez"
+        ]
+    },
+    {
+        "id": "sanchez-cuenca",
+        "firstname": "Ignacio",
+        "lastname": "Sánchez-Cuenca Rodríguez",
+        "thumbnailUrl": "/people/sanchez-cuenca.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "sanchez cuenca"
+        ]
+    },
+    {
+        "id": "medrano",
+        "firstname": "Juan",
+        "lastname": "Díez Medrano",
+        "thumbnailUrl": "/people/medrano.jpg",
+        "roles": [],
+        "relatedPeople": [
+            "diez-nicolas"
+        ],
+        "keywords": [
+            "diez medrano"
+        ]
+    },
+    {
+        "id": "diez-nicolas",
+        "firstname": "Juan",
+        "lastname": "Díez Nicolás",
+        "thumbnailUrl": "/people/diez-nicolas.jpg",
+        "roles": [],
+        "relatedPeople": [
+            "medrano"
+        ],
+        "keywords": [
+            "diez nicolas"
+        ]
+    },
+    {
+        "id": "leandro",
+        "firstname": "Leandro",
+        "lastname": "Prados de la Escosura",
+        "thumbnailUrl": "/people/leandro.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "leandro prados",
+            "prados de la escosura"
+        ]
+    },
+    {
+        "id": "modesto",
+        "firstname": "Rafael",
+        "lastname": "Modesto Escobar Mercado",
+        "thumbnailUrl": "/people/modesto.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "rafael modesto",
+            "modesto escobar",
+            "escobar mercado"
+        ]
+    },
+    {
+        "id": "chulia",
+        "firstname": "Elisa",
+        "lastname": "Chuliá Rodrigo",
+        "thumbnailUrl": "/people/chulia.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "chulia"
+        ]
+    },
+    {
+        "id": "paloma-aguilar",
+        "firstname": "Paloma",
+        "lastname": "Aguilar Fernández",
+        "thumbnailUrl": "/people/paloma-aguilar.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "paloma aguilar",
+            "aguilar fernandez"
+        ]
+    },
+    {
+        "id": "torcal",
+        "firstname": "Mariano",
+        "lastname": "Torcal Loriente",
+        "thumbnailUrl": "/people/torcal.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "mariano torcal",
+            "torcal loriente"
+        ]
+    },
+    {
+        "id": "houpt",
+        "firstname": "Stefan Oliver",
+        "lastname": "Houpt",
+        "thumbnailUrl": "/people/houpt.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "houpt"
+        ]
+    },
+    {
+        "id": "ruiz-martinez",
+        "firstname": "Francisco Javier",
+        "lastname": "Ruiz Martínez",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "francisco javier ruiz",
+            "paco ruiz",
+            "ruiz martinez"
+        ]
+    },
+    {
+        "id": "rodelas",
+        "firstname": "Javier",
+        "lastname": "Redondo Rodelas",
+        "thumbnailUrl": "/people/rodelas.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "javier redondo",
+            "rodelas"
+        ]
+    },
+    {
+        "id": "ana-guillen",
+        "firstname": "Ana Marta",
+        "lastname": "Guillén Rodríguez",
+        "thumbnailUrl": "/people/ana-guillen.jpg",
+        "roles": [],
+        "relatedPeople": [
+            "mauro-guillen"
+        ],
+        "keywords": [
+            "ana marta",
+            "ana guillen"
+        ]
+    },
+    {
+        "id": "mauro-guillen",
+        "firstname": "Mauro Federico",
+        "lastname": "Guillén Rodríguez",
+        "thumbnailUrl": "/people/mauro-guillen.jpg",
+        "roles": [],
+        "relatedPeople": [
+            "ana-guillen"
+        ],
+        "keywords": [
+            "mauro guillen"
+        ]
+    },
+    {
+        "id": "teresa-castro",
+        "firstname": "Teresa",
+        "lastname": "Castro Martín",
+        "thumbnailUrl": "/people/teresa-castro.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "teresa castro",
+            "castro martin"
+        ]
+    },
+    {
+        "id": "lostao",
+        "firstname": "Lourdes",
+        "lastname": "Lostao Unzu",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "lostao"
+        ]
+    },
+    {
+        "id": "olias",
+        "firstname": "Emilio",
+        "lastname": "Olías Ruiz",
+        "thumbnailUrl": "/people/olias.jpg",
+        "roles": [
+            "Defensor Universitario"
+        ],
+        "relatedPeople": [],
+        "keywords": [
+            "emilio olias",
+            "olias ruiz"
+        ]
+    },
+    {
+        "id": "elias-sanz",
+        "firstname": "Elías",
+        "lastname": "Sanz Casado",
+        "thumbnailUrl": "/people/elias-sanz.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "elias sanz casado"
+        ]
+    },
+    {
+        "id": "sanchez-pinilla",
+        "firstname": "María del Mar",
+        "lastname": "Sánchez Pinilla",
+        "thumbnailUrl": "/people/sanchez-pinilla.jpg",
+        "roles": [],
+        "relatedPeople": [],
+        "keywords": [
+            "maria del mar",
+            "sanchez pinilla"
+        ]
+    }
+]
