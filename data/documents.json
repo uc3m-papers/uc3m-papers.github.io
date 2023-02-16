@@ -733,7 +733,9 @@
         "downloadUrl": "/files/Documento-2.pdf",
         "previewUrl": "/files/Documento-2.pdf",
         "thumbnailUrl": "/files/Documento-2.png",
-        "people": []
+        "people": [
+            "romo"
+        ]
     },
     {
         "id": "Documento-1",
